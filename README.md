@@ -25,3 +25,6 @@ Building the Project with CMake
 Instruction for 9.1: .\cmake-build-debug\seminar9.exe file.txt
 
 INSTRUCTION FOR 9.2 .\seminar9_1.exe .\file1.txt .\file2.txt
+
+INSTRUCTION FOR 9.3 .\seminar_9_3.exe -p 2 -n 5
+
