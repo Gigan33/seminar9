@@ -21,4 +21,7 @@ Building the Project with CMake
 5)Build the project: cmake --build .
 
 6)It works
+
 Instruction for 9.1: .\cmake-build-debug\seminar9.exe file.txt
+
+INSTRUCTION FOR 9.2 .\seminar9_1.exe .\file1.txt .\file2.txt
