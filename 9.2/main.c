@@ -2,7 +2,6 @@
 #include "merge.h"
 
 int main(int argc, char **argv) {
-    puts("\n\nTask2\n");
 
     FILE *file1;
     file1 = fopen(argv[1], "r");
